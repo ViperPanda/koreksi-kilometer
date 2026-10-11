@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=EEPROM Programmer CH341A
+Comment=Speedometer & Odometer Memory Flasher Tool
+Exec=/home/barrr/Documents/koreksi_kilometer/dist/EEPROM_Programmer
+Path=/home/barrr/Documents/koreksi_kilometer
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;Utility;
